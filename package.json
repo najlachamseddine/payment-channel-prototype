@@ -1,0 +1,35 @@
+{
+  "name": "treasury-paymentChannelPrototype",
+  "version": "1.0.0",
+  "description": "The prototype code for treasury payment channels.",
+  "main": "treasury-payment-channel-contract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/quantnetwork/Treasury-PaymentChannelPrototype.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/quantnetwork/Treasury-PaymentChannelPrototype/issues"
+  },
+  "homepage": "https://github.com/quantnetwork/Treasury-PaymentChannelPrototype#readme",
+  "dependencies": {
+    "@quantnetwork/overledger-bundle": "^1.0.0-beta.2",
+    "@quantnetwork/overledger-core": "^1.0.0-beta.2",
+    "@quantnetwork/overledger-dlt-ethereum": "^1.0.0-beta.2",
+    "@quantnetwork/overledger-types": "^1.0.0-beta.2",
+    "bn.js": "^5.1.1",
+    "bufferutil": "^4.0.1",
+    "crypto-js": "^4.0.0",
+    "eth-sig-util": "^2.5.3",
+    "ethereumjs-abi": "^0.6.8",
+    "ethereumjs-util": "^6.2.0",
+    "request-promise-native": "^1.0.8",
+    "utf-8-validate": "^5.0.2",
+    "web3": "^1.2.6",
+    "web3-eth-accounts": "^1.2.6"
+  }
+}
