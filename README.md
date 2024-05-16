@@ -5,8 +5,6 @@ The treasury options were discussed here: https://quantnetwork.sharepoint.com/:p
 
 Where we decided to settle on payment channels for the first prototype. 
 
-To understand payment channels, revise section 3.2 and section 3.2.1 of https://docs.google.com/presentation/d/1XJyEdx55bInDzmlZaAFIFznoUTCePXBdDp6tepG3yyU/edit?usp=sharing
-
 A Solidity example starts here: https://solidity.readthedocs.io/en/v0.5.3/solidity-by-example.html#micropayment-channel
 
 
